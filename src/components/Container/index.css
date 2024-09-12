@@ -1,0 +1,223 @@
+.main {
+  width: auto;
+  background-color: #ffffff;
+  margin-left: 20px;
+  /* padding-top: 15px;
+    padding-left: 15px;
+    padding-bottom: 13%;
+    padding-right: 25px; */
+  padding: 15px 25px 65px 25px;
+  display: flex;
+}
+
+.body h1 {
+  margin-left: 2%;
+}
+
+.camera {
+  width: 250px;
+  height: 250px;
+  background-color: #fafafb;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 130px;
+  margin-top: -40px;
+}
+
+.camera svg {
+  font-size: 60px;
+  color: #1f2492;
+}
+
+.main-profile button {
+  display: block;
+  width: 140px;
+  margin-bottom: 10px;
+  border: none;
+  border-radius: 8%;
+  padding: 10px;
+  font-family: sans-serif;
+  cursor: pointer;
+}
+
+#btn {
+  background-color: #1f2492;
+  color: white;
+}
+
+.main-profile h1 {
+  font-size: 32px;
+  width: 100px;
+  display: flex;
+  text-align: center;
+  margin-left: 150px;
+  font-family: sans-serif;
+}
+
+.instagram svg {
+  color: #605bff;
+  font-size: 35px;
+
+  /* background-color: #605BFF; */
+}
+
+.instagram {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  margin-left: 110px;
+}
+
+.instagram p {
+  font-family: sans-serif;
+  background-color: #fafafb;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+#Circle {
+  font-size: 19px;
+  color: #1f2492;
+  background-color: #fff;
+  border-radius: 0%;
+  margin-left: 1%;
+}
+
+#Circle3 {
+  font-size: 19px;
+  color: #1f2492;
+  background-color: #fff;
+  border-radius: 0%;
+}
+
+#Circle2 {
+  font-size: 19px;
+  color: #1f2492;
+  background-color: #fff;
+  border-radius: 0%;
+  margin-left: 5.5%;
+}
+
+.telegram {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  margin-left: 30%;
+}
+
+.telegram svg {
+  color: white;
+  padding: 5px;
+  background-color: #818095;
+  border-radius: 50%;
+}
+
+.inputs {
+  width: 500px;
+  padding-top: 5%;
+  height: 200px;
+  /* background-color: red; */
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 8%;
+}
+
+.inputs input {
+  background-color: #fafafb;
+  width: 150px;
+  height: 10px;
+  font-size: 18px;
+  border-radius: 18px;
+}
+
+.inputs label {
+  display: block;
+  margin-bottom: 5px;
+  color: black;
+}
+
+.input-group {
+  margin-right: 25px;
+  margin-bottom: 25px;
+}
+
+.textArea {
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.textArea textarea {
+  width: 365px;
+  resize: none;
+  background-color: #fafafb;
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 8px;
+}
+
+.skills {
+  width: auto;
+  background-color: #fff;
+  padding-top: 4%;
+  padding-right: 3%;
+}
+
+.input-group2 input {
+  width: 400px;
+  height: 10px;
+}
+
+.input-group2 label {
+  margin-bottom: 7px;
+  color: black;
+  display: flex;
+  align-items: center;
+}
+
+.input-group2 svg {
+  font-size: 10px;
+}
+
+.block {
+  display: flex;
+}
+
+#Circle4 {
+  font-size: 16px;
+  margin-left: 9px;
+  color: #1f2492;
+  background-color: #fff;
+  border-radius: 0%;
+}
+
+#label1 {
+  margin-top: 70px;
+}
+
+#exit {
+  width: 180px;
+  height: 30px;
+  border: none;
+  border: 1px solid #818095;
+  border-radius: 8px;
+  background-color: #fff;
+  color: #818095;
+  font-family: sans-serif;
+  margin-right: 15px;
+}
+
+#save {
+  width: 180px;
+  font-family: sans-serif;
+  height: 30px;
+  border: none;
+  border-radius: 8px;
+  background-color: #1f2492;
+  color: white;
+}
+
+.skills-buttons {
+  margin-top: 180px;
+}
