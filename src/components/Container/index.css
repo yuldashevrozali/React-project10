@@ -26,8 +26,51 @@
   margin-top: -40px;
 }
 
+.camera1 {
+  width: 100px;
+  height: 100px;
+  background-color: #fafafb;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  margin: 0 auto;
+  justify-content: center;
+}
+
+.cvv-section{
+  width: 100%;
+}
+
+.input-block{
+  display: flex;
+  width: 1300px;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-top: 25px;
+  margin-left: 100px;
+}
+
+.skills-buttons1{
+  display: flex;
+  margin-top: 7%;
+  margin-left: 65%;
+}
+
+.input-block input{
+  background-color: #fafafb;
+  border-radius: 8%;
+  width: 350px;
+  font-size: 18px;
+  margin-top: 25px;
+}
+
 .camera svg {
   font-size: 60px;
+  color: #1f2492;
+}
+
+.camera1 svg {
+  font-size: 30px;
   color: #1f2492;
 }
 
@@ -116,7 +159,7 @@
 
 .inputs {
   width: 500px;
-  padding-top: 5%;
+  padding-top: 4%;
   height: 200px;
   /* background-color: red; */
   display: flex;
@@ -140,7 +183,7 @@
 
 .input-group {
   margin-right: 25px;
-  margin-bottom: 25px;
+  margin-bottom: 15px;
 }
 
 .textArea {
@@ -193,7 +236,7 @@
 }
 
 #label1 {
-  margin-top: 70px;
+  margin-top: 60px;
 }
 
 #exit {
